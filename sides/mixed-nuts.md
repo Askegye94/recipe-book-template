@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Pecan
+- Peanuts
 
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Smash
+- Stir
